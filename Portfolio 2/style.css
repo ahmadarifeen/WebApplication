@@ -1,0 +1,56 @@
+
+nav 
+{  
+background-color: yellow;
+display: flex;
+flex-direction: row;
+justify-content: left;
+}
+
+img {
+	width: 40px;
+	height: 40px;
+}
+
+.menu
+{
+	display: flex;
+flex-direction: row;
+}
+
+nav ul li a {
+	text-decoration: none;
+	font-weight: bold;
+	list-style-type: none;
+}
+
+nav ul li :hover
+{
+	color: darkred;
+}
+
+h1, p {
+	
+	padding-left: 30px;
+	padding-top: 40px;
+	margin: 0px;
+	font-family: sans-serif;
+	
+}
+span
+{
+	color: red;
+}
+.pro {
+	height: 300px;
+	width: 300px;	
+}
+.go 
+{
+	height: 400px;
+	background-color: yellow;
+}
+.ho{
+	height: 400px;
+	background-color: green;
+}

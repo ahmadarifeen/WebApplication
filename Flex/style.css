@@ -1,0 +1,45 @@
+nav
+{
+	height: 80 px;
+	background: blue;
+	padding: 50px 60px;
+}
+header {
+	height: 400 px;
+	background: pink;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+section {
+	background: lightpink;
+	height: 300px;
+
+}
+footer {
+
+	background: lightgoldenrodyellow;
+	height: 100px;
+}
+#flex-container 
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+}
+.flex-item {
+	border-radius: 10px;
+	background-color: grey;
+	height: 10px;
+	width: 20ox;
+}
+
+img {
+	height: 100px;
+	width: 100px;
+
+}
+strong {
+	font-size: 50px;
+}

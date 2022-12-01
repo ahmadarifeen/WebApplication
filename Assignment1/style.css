@@ -1,0 +1,36 @@
+
+body{
+  background-image: url('images/background.jpg');
+  background-position: right top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  padding: 150px;
+
+}
+span {
+  color: black;
+  font: 5px;
+  text-align: right;
+}
+h1 {
+  text-align: left;
+  text-si
+  margin-top: 100px;
+  color: black;
+}
+
+	h2 {
+  text-align: left;
+  text-si
+  margin-top: 100px;
+  color: black;
+ 
+}
+img {
+        width: 200px;
+        border-radius: 100px;
+        float: left;
+        margin-right: 10px;
+      }
+

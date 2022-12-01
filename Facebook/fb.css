@@ -1,0 +1,55 @@
+
+
+
+body{
+	background-color: #edf4f4;
+}
+h1 {
+	font-family: arial;
+	color:  #3333ff;
+	font-size: 60px;
+	text-align: left;
+	margin: 10px;
+}
+h2
+{    
+	text-align: left;
+	style="font-size: 18px; margin: 10px;
+
+}
+div
+{
+	text-align: center;
+	padding-top: 150px;
+	margin: 30px;
+
+}
+section
+{
+	
+text-align: right;
+	margin: 150px;
+	}
+
+	a{
+		color: black;
+	}
+
+footer {
+height: 150px;
+background: whitesmoke;
+padding: 10px;
+margin: 6px;
+	}
+
+.flex-container
+
+{
+	display: flex;
+	border: solid black;
+	padding: 100px;
+	align-content: right;
+}
+button {
+	align-content: center;
+}
